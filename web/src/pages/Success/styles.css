@@ -1,0 +1,22 @@
+#page-success {
+    height: 100vh;
+    background: url('../../assets/home-background.svg') no-repeat 800px bottom;
+    background-color: black;
+  }
+
+#message-success {
+    color: greenyellow;
+    font-size: 24px;
+    font-family: Ubuntu;
+}
+
+#success {
+    padding-top: 250px;
+    padding-left: 150px;
+}
+
+#come-back {
+    padding-top: 380px;
+    padding-left: 30px;
+    color: greenyellow;
+}
